@@ -1,0 +1,49 @@
+body{
+    background-color: #DE8CFF;
+}
+
+h3{
+    margin-left: 12cm;
+}
+
+.det{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+img{
+    margin-left: 9cm;
+}
+
+.headings{
+    display: flex;
+    justify-content: center;
+}
+
+.designs{
+    border: solid;
+    border-color: red;
+    border-width: 0.3cm;
+}
+
+.animals{
+    border: solid;
+    border-width: 0.3cm;
+    border-color: rgb(14, 235, 106);
+    border-width: 0.3cm;
+}
+
+.toys{
+    border: solid;
+    border-width: 0.3cm;
+    border-color:  rgb(14, 235, 106);
+    border-width: 0.3cm;
+}
+
+.others{
+    border: solid;
+    border-width: 0.3cm;
+    border-color:  rgb(14, 235, 106);
+    border-width: 0.3cm;
+}
